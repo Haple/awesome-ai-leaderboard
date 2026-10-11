@@ -139,11 +139,12 @@ Also, a leaderboard should be included if only:
 | [SEAL Showdown](https://scale.com/showdown) | SEAL Showdown ranks AI models based on how they perform in real-world use. Votes are blind, optional, and organic, so rankings reflect authentic preferences. |
 | [SkillsBench](https://www.skillsbench.ai/leaderboard) | SkillsBench is a leaderboard for evaluating and comparing the skills and capabilities of AI models. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
-| [大模型修仙榜](https://top.ajw.cn) | 大模型修仙榜 (Large Model Cultivation Leaderboard) continuously tracks global model performance by combining authoritative evaluations such as Chatbot Arena, Artificial Analysis, SWE-bench, and Terminal-Bench across capability, coding, agent tasks, open-source deployment, stability, and cost-effectiveness. |
+| [The Aggregate](https://theaggregate.ai) | The Aggregate combines public benchmark leaderboards into one daily LLM ranking using a robust IRT model on an Elo scale with standard errors, and links every score to its source. |
 | [Vals AI](https://www.vals.ai) | Val AI builds custom, industry-specific benchmarks using private datasets to provide unbiased third-party evaluations of LLM performance. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
 | [XBench](https://xbench.org) | XBench is a platform for evaluating and comparing AI models across diverse benchmarks and tasks. |
 | [Yupp Leaderboard](https://yupp.ai/leaderboard) | Yupp is a platform that enables users to compare outputs from multiple AI models side by side, select their preferred response, and provide feedback. |
+| [大模型修仙榜](https://top.ajw.cn) | 大模型修仙榜 (Large Model Cultivation Leaderboard) continuously tracks global model performance by combining authoritative evaluations such as Chatbot Arena, Artificial Analysis, SWE-bench, and Terminal-Bench across capability, coding, agent tasks, open-source deployment, stability, and cost-effectiveness. |
 
 ### Text
 
